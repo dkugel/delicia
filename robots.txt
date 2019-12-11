@@ -434,3 +434,7 @@ Disallow: /
 User-agent: *
 Disallow: /js
 Disallow: *.js
+
+User-agent: *
+Allow: /
+Sitemap: https://www.lechonerialadelicia.com/sitemap.xml
